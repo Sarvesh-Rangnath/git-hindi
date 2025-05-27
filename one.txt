@@ -1,2 +1,5 @@
 This is a file in the Four folder
 Second line to the file has been added
+Some more text added to the file
+Some more text added to the file
+Some more text added to the file
